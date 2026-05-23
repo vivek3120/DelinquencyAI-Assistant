@@ -1,0 +1,21 @@
+Delinquency Escalation Policy
+
+Section 1: Low Risk
+Low risk borrowers remain in standard monitoring.
+
+Section 2: Medium Risk
+Medium risk borrowers receive payment reminders and continued monitoring.
+
+Section 3: High Risk
+High risk borrowers are escalated to the collections review team for early intervention.
+
+Section 4: Very High Risk
+Very high risk borrowers may require manual review, payment plan evaluation, and hardship assistance screening.
+
+Section 5: Recommended Action Mapping
+LOW risk maps to standard monitoring.
+MEDIUM risk maps to payment reminder and monitoring.
+HIGH risk maps to manual review and early intervention.
+
+Section 6: Documentation
+All recommendations should include reason codes, risk score, risk band, and policy references.

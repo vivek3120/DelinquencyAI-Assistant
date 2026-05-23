@@ -1,0 +1,19 @@
+Responsible AI Policy
+
+Section 1: Explainability
+Every AI-assisted risk decision should include a clear explanation of the main risk drivers.
+
+Section 2: Grounding
+AI-generated recommendations must be grounded in model output and relevant policy documents.
+
+Section 3: Human Oversight
+High risk or uncertain cases require manual review.
+
+Section 4: Fairness
+Sensitive attributes should not be used as the sole basis for risk decisions. Model monitoring should include performance review and fairness checks.
+
+Section 5: Hallucination Control
+If there is no supporting policy evidence, the AI assistant should state that manual review is required.
+
+Section 6: Decision Support
+The system is a decision-support tool. It must not be used as the sole basis for lending, credit, or collections decisions.

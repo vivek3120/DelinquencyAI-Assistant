@@ -1,0 +1,19 @@
+Collections Policy
+
+Section 1: Early Intervention
+Borrowers classified as high risk should be reviewed before severe delinquency occurs. Early intervention may include reminder communication, payment plan discussion, or hardship review.
+
+Section 2: Medium Risk Accounts
+Medium risk borrowers should receive a payment reminder and should be monitored for continued repayment deterioration.
+
+Section 3: High Risk Accounts
+High risk borrowers with repeated repayment delays, high utilization, low payment-to-balance behavior, or severe repayment delay history should be referred to the collections review team.
+
+Section 4: Low Risk Accounts
+Low risk borrowers should remain under standard portfolio monitoring.
+
+Section 5: Human Review
+Automated model outputs must be used only as decision-support. Final collections actions require human review when the borrower is classified as high risk.
+
+Section 6: Documentation
+Every recommended collections action should include the customer identifier, risk band, default probability, key risk drivers, and recommended next step.
