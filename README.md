@@ -1,5 +1,4 @@
 # DelinquencyAI-Assistant
-## App: https://delinquencyai-assistant-ai.streamlit.app/
 
 ## Financial Risk Prediction + Microsoft Fabric + Power BI + RAG + Responsible AI
 
